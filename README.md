@@ -1,4 +1,4 @@
-﻿# Blog-preview-card-frontend-mentor
+
  # Frontend Mentor | Blog Preview Card
 
 Este projeto é uma solução para o desafio **Blog Preview Card** do **Frontend Mentor**. O objetivo do desafio é construir um card de visualização de blog o mais próximo possível do design proposto, utilizando apenas **HTML** e **CSS**.
@@ -48,5 +48,6 @@ Frontend em desenvolvimento 🚀
 ## 📝 Observações
 
 Este projeto faz parte do meu processo de aprendizado em Frontend e foi desenvolvido com foco em boas práticas e simplicidade.
+
 
 
